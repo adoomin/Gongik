@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{display:{Name:'{"text":"공익씨..이쪽으로 서 주세요","color":"yellow","bold":true}'},CustomModelData:GongikTurnStick} 1

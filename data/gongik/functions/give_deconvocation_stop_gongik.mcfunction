@@ -1,0 +1,1 @@
+give @p minecraft:allium{display:{Name:'{"text":"공익씨..오늘부로 소집해제입니다","color":"light_purple","bold":true}'},CustomModelData:DeconvoGongik} 1
